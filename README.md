@@ -1,0 +1,2 @@
+# Bisection
+Mathematical method Bisection
